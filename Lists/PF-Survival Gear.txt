@@ -1,0 +1,31 @@
+Bedroll:1sp:5lbs
+Blanket, common:2sp:1lbs
+Blanket, winter:5sp:3lbs
+Chair, folding:2gp:10lbs
+Hammock:1sp:3lbs
+Tent, small (1 person):10gp:20lbs
+Tent, medium (2 people):15gp:30lbs
+Tent, large (4 people):30gp:40lbs
+Tent, pavilion (10 people):100gp:50lbs
+Tent, hanging:20gp:15lbs
+Fishhook:1sp:0lbs
+Net, butterfly:5gp:2lbs
+Net, fishing:4gp:5lbs
+Scent cloak:20gp:2lbs
+Trap, bear:2gp:10lbs
+Bell:1gp:0lbs
+Buoy, common:5sp:16lbs
+Buoy, superior:10gp:30lbs
+Compass:10gp:1lbs
+Heatstone:20gp:1lbs
+Map, area:50gp:2lbs
+Mirror, small steel:10gp:1lbs
+Rope, hemp (50 ft.):1gp:10lbs
+Rope, silk (50 ft.):10gp:5lbs
+Rope, spider's silk (50 ft.):100gp:4lbs
+Star Charts:200gp:1lbs
+String/twine (50 ft.):1cp:1lbs
+Signal horn:1gp:2lbs
+Whistle:8sp:0lbs
+Whistle, signal:8sp:0lbs
+Whistle, silent:9sp:0lbs

@@ -1,0 +1,54 @@
+Hanbo:1gp:2lbs
+Butterfly sword:20gp:1lbs
+Iron brush:2gp:0lbs
+Jutte:8gp:1lbs
+Kerambit:2gp:0lbs
+Kukri:8gp:2lbs
+Lungchuan tamo:5gp:1lbs
+Shang gou:6gp:1lbs
+Tonfa:1gp:1lbs
+Wushu dart (5):1gp:0lbs
+Broadsword, nine ring:15gp:4lbs
+Double chicken saber:12gp:3lbs
+Sibat:2gp:2lbs
+Hooked lance:3gp:10lbs
+Monk’s spade:20gp:12lbs
+Naginata:35gp:9lbs
+Nodachi:60gp:8lbs
+Sansetsukon:8gp:3lbs
+Sword, tri-point double-edged:12gp:14lbs
+Tiger fork:5gp:8lbs
+Tube arrow shooter:3gp:1lbs
+Arrow, Bamboo shaft (10):1gp:1lbs
+Arrow, iron-tipped distance (20):1gp:4lbs
+Arrow(s), whistling (20):2gp:3lbs
+Poisoned sand tube:1gp:1lbs
+Bich’hwa:5gp:2lbs
+Dan bong:1sp:0lbs
+Emei piercer:3gp:0lbs
+Fighting fan:5gp:0lbs
+Kama:2gp:2lbs
+Madu (leather):40gp:5lbs
+Madu (steel):40gp:6lbs
+Nunchaku:2gp:2lbs
+Pata:14gp:3lbs
+Sai:1gp:1lbs
+Siangham:3gp:1lbs
+Tekko-kagi (iron claw):2gp:0lbs
+Wakizashi:35gp:2lbs
+Katana:50gp:6lbs
+Nine-section whip:8gp:3lbs
+Sword, temple:30gp:3lbs
+Urumi:30gp:6lbs
+Bo staff:1gp:3lbs
+Chain, spiked:25gp:10lbs
+Kama, double-chained:8gp:4lbs
+Katana, double walking stick:50gp:6lbs
+Kusarigama (sickle and chain):12gp:3lbs
+Kyoketsu shoge:6gp:1lbs
+Meteor hammer:10gp:10lbs
+Sword, seven-branched:50gp:7lbs
+Tetsubo:20gp:10lbs
+Chakram, crystal:20gp:2lbs
+Rope dart:1gp:0lbs
+Shuriken (5):1gp:1lbs

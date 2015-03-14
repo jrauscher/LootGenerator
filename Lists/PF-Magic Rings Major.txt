@@ -1,0 +1,25 @@
+Ring of energy resistance, major:28000gp:0lbs
+Ring of the ecclesiarch:28500gp:0lbs
+Ring of protection (+4):32000gp:0lbs
+Ring of return:33600gp:0lbs
+Ring of freedom of movement:40000gp:0lbs
+Ring of wizardry II:40000gp:0lbs
+Ring of inner fortitude, major:42000gp:0lbs
+Ring of energy resistance, greater:44000gp:0lbs
+Ring of delayed doom:45000gp:0lbs
+Ring of friend shield:50000gp:0lbs
+Ring of protection (+5):50000gp:0lbs
+Ring of shooting stars:50000gp:0lbs
+Ring of spell storing:50000gp:0lbs
+Ring of continuation:56000gp:0lbs
+Ring of inner fortitude, greater:66000gp:0lbs
+Ring of wizardry III:70000gp:0lbs
+Spiritualist Rings:70000gp:0lbs
+Ring of telekinesis:75000gp:0lbs
+Ring of regeneration:90000gp:0lbs
+Ring of spell turning:100000gp:0lbs
+Ring of wizardry IV:100000gp:0lbs
+Ring of three wishes:120000gp:0lbs
+Ring of djinni calling:125000gp:0lbs
+Ring of elemental command:200000gp:0lbs
+Ring of spell storing, major:200000gp:0lbs

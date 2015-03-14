@@ -1,0 +1,18 @@
+Dungeon ring, prisoner's:250gp:0lbs
+Ring of arcane signets:1000gp:0lbs
+Ring of spell knowledge I:1500gp:0lbs
+Ring of protection (+1):2000gp:0lbs
+Ring of the grasping grave:2000gp:0lbs
+Ring of feather falling:2200gp:0lbs
+Ring of climbing:2500gp:0lbs
+Ring of jumping:2500gp:0lbs
+Ring of sustenance:2500gp:0lbs
+Ring of swimming:2500gp:0lbs
+Ring of ferocious action:3000gp:0lbs
+Ring of counterspells:4000gp:0lbs
+Ring of maniacal devices:5000gp:0lbs
+Ring of rat fangs:5000gp:0lbs
+Ring of sacred mistletoe:6000gp:0lbs
+Ring of spell knowledge II:6000gp:0lbs
+Ring of swarming stabs:6000gp:0lbs
+Ring of grit mastery:6840gp:0lbs

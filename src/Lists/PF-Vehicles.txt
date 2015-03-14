@@ -1,0 +1,19 @@
+Carriage:100gp:0lbs
+Cart:15gp:0lbs
+Chariot, Light:50gp:0lbs
+Chariot, Medium:100gp:0lbs
+Chariot, Heavy:200gp:0lbs
+Dog Sled:20gp:0lbs
+Sleigh:100gp:0lbs
+Steam Giant:80000gp:0lbs
+Wagon, Light:50gp:0lbs
+Wagon, Medium:75gp:0lbs
+Wagon, Heavy:100gp:0lbs
+Galley:10000gp:0lbs
+Keelboat1:13000gp:0lbs
+Longship:10000gp:0lbs
+Sailing Ship:10000gp:0lbs
+Warship:25000gp:0lbs
+Airship:50000gp:0lbs
+Alchemical Dragon:100000gp:0lbs
+Glider:500gp:0lbs

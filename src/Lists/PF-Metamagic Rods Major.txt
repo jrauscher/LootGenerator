@@ -1,0 +1,29 @@
+Suzerain scepter:20000gp:0lbs
+Fiery nimbus rod:22305gp:0lbs
+Rod of enemy detection:23500gp:0lbs
+Metamagic (+1 spell level), greater:24500gp:0lbs
+Rod of splendor:25000gp:0lbs
+Rod of withering:25000gp:0lbs
+Earthbind rod:26500gp:0lbs
+Rod of the aboleth:29000gp:0lbs
+Liberator's rod:30000gp:0lbs
+Metamagic (+2 spell level), normal:32500gp:0lbs
+Rod of thunder and lightning:33000gp:0lbs
+Metamagic, quicken, minor:35000gp:0lbs
+Rod of negation:37000gp:0lbs
+Rod of steadfast resolve:38305gp:0lbs
+Rod of absorption:50000gp:0lbs
+Rod of flailing:50000gp:0lbs
+Metamagic (+3 spell level), normal:54000gp:0lbs
+Rod of rulership:60000gp:0lbs
+Rod of security:61000gp:0lbs
+Rod of shadows:64305gp:0lbs
+Rod of mind mastery:67000gp:0lbs
+Rod of lordly might:70000gp:0lbs
+Metamagic (+2 spell level), greater:73000gp:0lbs
+Scepter of Heaven:74000gp:0lbs
+Metamagic, quicken, normal:75500gp:0lbs
+Rod of dwarven might:80000gp:0lbs
+Rod of alertness:85000gp:0lbs
+Metamagic (+3 spell level), greater:121500gp:0lbs
+Metamagic, quicken, greater:170000gp:0lbs

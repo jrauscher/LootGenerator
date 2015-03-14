@@ -1,0 +1,115 @@
+Gauntlet:2gp:1lbs
+Battle Aspergillum:5gp:4lbs
+Brass Knife:2gp:1lbs
+Brass Knuckles:1gp:1lbs
+Cestus:5gp:1lbs
+Dagger:2gp:1lbs
+Punching Dagger:2gp:1lbs
+Spiked Gauntlet:5gp:1lbs
+Hook Hand:10gp:1lbs
+Light Mace:5gp:4lbs
+Sickle:6gp:2lbs
+Wooden Stake:1gp:1lbs
+Club:1gp:3lbs
+Mere Club:2gp:2lbs
+Combat Scabbard:1gp:1lbs
+Heavy Mace:12gp:8lbs
+Morningstar:8gp:6lbs
+Shortspear:1gp:3lbs
+Bayonet:5gp:1lbs
+Boarding Pike:8gp:9lbs
+Longspear:5gp:9lbs
+Quarterstaff:1gp:4lbs
+Spear:2gp:6lbs
+Board Spear:5gp:8lbs
+Blowgun:2gp:1lbs
+Heavy Crossbow:50gp:8lbs
+Heavy Crossbow(underwater):100gp:8lbs
+Light Crossbow:35gp:4lbs
+Light Crossbow(underwater):70gp:4lbs
+Dart:5sp:1lbs
+Javelin:1gp:2lbs
+Sling:1gp:1lbs
+Stingchuck:1gp:9lbs
+Crossbow Bolts(10):1gp:1lbs
+Bolts Acid(1):40gp:1lbs
+Bolts Drow Poison(1):100gp:1lbs
+Bolts Fire(1):50gp:1lbs
+Bullets Groaning(10):2gp:5lbs
+Bullets Sling(10):100gp:5lbs
+Bullets Smoke(10):100gp:5lbs
+Blowgun Darts(10):5sp:1lbs
+Boarding Axe:6gp:3lbs
+Throwing Axe:8gp:2lbs
+Blade Boot:25gp:2lbs
+Cat-O-Nine-Tails:1gp:1lbs
+Dogslicer:8gp:1lbs
+Light Hammer:1gp:2lbs
+Gladius:15gp:3lbs
+Handaxe:6gp:3lbs
+Switchblade Knife:5gp:1lbs
+Light Pick:4gp:3lbs
+Sap:1gp:2lbs
+Sea-Knife:8gp:1lbs
+Short Sword:10gp:2lbs
+War Razor:8gp:1lbs
+Starknife:24gp:3lbs
+Kukri:8gp:2lbs
+Battleaxe:10gp:6lbs
+Cutlass:15gp:4lbs
+Flail:8gp:5lbs
+Klar:12gp:6lbs
+Longsword:15gp:4lbs
+Heavy Pick:8gp:6lbs
+Rapier:20gp:2lbs
+Comabt Scabbard:10gp:1lbs
+Scimitar:15gp:4lbs
+Scizore:20gp:3lbs
+Sword Cane:45gp:4lbs
+Trident:15gp:4lbs
+Warhammer:12gp:5lbs
+Bardiche:13gp:14lbs
+Bec-De-Corbin:15gp:12lbs
+Bill:11gp:11lbs
+Earth Breaker:40gp:14lbs
+Falchion:75gp:8lbs
+Heavy Flail:15gp:10lbs
+Glaive:8gp:10lbs
+Greataxe:20gp:12lbs
+Greatclub:5gp:8lbs
+GreatSword:50gp:8lbs
+Guisarme:9gp:12lbs
+Halberd:10gp:12lbs
+Lucerne Hammer:15gp:12lbs
+Horsechopper:10gp:12lbs
+Lance:10gp:10lbs
+Orgre Hook:24gp:10lbs
+Pickaxe:14gp:12lbs
+Ranseur:10gp:12lbs
+Scythe:18gp:10lbs
+Syringe Spear:100gp:6lbs
+Ammentum:1gp:1lbs
+Chakram:1gp:1lbs
+Jolting Dart(1):100gp:1lbs
+Hunga Munga:4gp:3lbs
+Longbow:75gp:75lbs
+Composite Longbow:100gp:3lbs
+Pilum:5gp:4lbs
+Shortbow:30gp:2lbs
+Composite Shortbow:75gp:2lbs
+Arrows Common(20):1gp:3lbs
+Arrows Bleeding(1):360gp:0lbs
+Arrows Blunt(20):2gp:3lbs
+Arrows Durable(1):1gp:0lbs
+Arrows Dye(1):1gp:4lbs
+Arrows Flight(20):2gp:3lbs
+Arrows Lodestone:10gp:0lbs
+Arrows Pheromone(1):10gp:0lbs
+Arrows Raining(1):30gp:0lbs
+Arrows Slowburn(1):150gp:0lbs
+Arrows Smoke(1):10gp:0lbs
+Arrows Splintercloud(1):25gp:0lbs
+Arrows Tanglefoot(1):20gp:0lbs
+Arrows Thistle(1):1gp:0lbs
+Arrows Trip(1):25gp:0lbs
+Arrows Whistling(20):2gp:3lbs

@@ -1,0 +1,16 @@
+Chain (10 ft.):30gp:2lbs
+Chain, Breakaway:65gp:2lbs
+Chain Belt:15gp:1lbs
+Key, Copy:1gp:0lbs
+Key, Skeleton:85gp:0lbs
+Key, Wax Blank:15gp:1lbs
+Lock, Simple:20gp:1lbs
+Lock, Average:40gp:1lbs
+Lock, Good:80gp:1lbs
+Lock, Superior:150gp:1lbs
+Manacles:15gp:2lbs
+Manacles, False:65gp:2lbs
+Manacles, Masterwork:50gp:2lbs
+Manacles, Mithral:1000gp:2lbs
+Fetters:15gp:2lbs
+Fetters, Masterwork:50gp:2lbs

@@ -1,0 +1,20 @@
+Mithral shirt:1100gp:25lbs
+Dragonhide plate:3300gp:30lbs
+Elven chain:5150gp:20lbs
+Rhino hide:5165gp:10lbs
+Adamantine breastplate:10200gp:50lbs
+Dwarven plate:16500gp:50lbs
+Banded mail of luck:18900gp:25lbs
+Celestial armor:22400gp:25lbs
+Plate armor of the deep:24650gp:50lbs
+Breastplate of command:25400gp:45lbs
+Mithral full plate of speed:26500gp:35lbs
+Demon armor:52260gp:30lbs
+Darkwood buckler:203gp:15lbs
+Darkwood shield:257gp:15lbs
+Mithral heavy shield:1020gp:15lbs
+Caster's shield:3153gp:15lbs
+Spined shield:5580gp:15lbs
+Lion's shield:9170gp:15lbs
+Winged shield:17257gp:15lbs
+Absorbing shield:50170gp:15lbs

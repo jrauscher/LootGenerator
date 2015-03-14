@@ -1,0 +1,82 @@
+Alchemist's Kit:25gp:5lbs
+Chirurgeon's Bag:400gp:4lbs
+Chronicler's Supplies:40gp:4lbs
+Climber's Kit:80gp:5lbs
+Cooking Kit:1gp:2lbs
+Disguise Kit:50gp:8lbs
+Disguise Kit, Half-Orc:75gp:1lbs
+Dragonslayer's Kit:485gp:64lbs
+Dungeoneering Kit:15gp:25lbs
+Dungeoneering Kit, Deluxe:130gp:15lbs
+Healer's Kit:50gp:1lbs
+Juggler's Kit:15gp:10lbs
+Leeching Kit:5gp:5lbs
+Map Making Kit:10gp:2lbs
+Pathfinder's Kit:12gp:22lbs
+Riding Kit:16gp:53lbs
+Shaving Kit:15sp:1lbs
+Signal Kite Kit:5gp:0lbs 
+Spelunking Kit:174gp:32lbs
+Symptom Kit:25gp:5lbs
+Trailscent Kit:10gp:5lbs
+Vampire Slayer's Kit:500gp:8lbs
+Tool, Masterwork:50gp:1lbs
+Tools, Surgeon's:20gp:5lbs
+Tools, Thieves':30gp:1lbs
+Tools, Thieves' (masterwork):100gp:2lbs
+Tools, Artisan's:5gp:5lbs
+Tools, Artisan's, masterwork:55gp:5lbs
+Abacus:2gp:2lbs
+Anvil:5gp:40lbs
+Astrolabe:1000gp:6lbs
+Bellows:1gp:3lbs
+Block and tackle:5gp:5lbs
+Compass:10gp:1lbs
+Cord, Measuring (10 ft):1gp:1lbs
+Crowbar:2gp:5lbs
+Drill:5sp:1lbs
+Earplugs:3cp:0lbs
+Flint and steel:1gp:0lbs	
+Grappling hook:1gp:4lbs
+Hammer:5sp:2lbs
+Hourglass (one hour):25gp:1lbs
+Hourglass (one minute):20gp:1lbs
+Hourglass (six seconds):10gp:0lbs
+Ladder (10ft):2sp:20lbs
+Ladder, folding:2gp:16lbs
+Light Detector:1gp:0lbs
+Magnet:5sp:1lbs
+Magnifying glass:100gp:0lbs
+Oar:2gp:10lbs
+Periscope:20gp:4lbs
+Pick, miner's:3gp:10lbs
+Piton:1sp:1lbs
+Plank, collapsible:4sp:10lbs
+Pole (10 ft):5cp:8lbs
+Pole, balancing:8gp:12lbs
+Pulley:2gp:10lbs
+Ram, portable:10gp:20lbs
+Saw:4cp:2lbs
+Scale, merchant's:2gp:1lbs
+Sewing needle:5sp:0lbs
+Sextant:500gp:2lbs
+Shield Sconce:1gp:1lbs
+Shovel:2cp:3lbs
+Sledge:1gp:10lbs
+Spear-Thrower:1gp:1lbs
+Spike, iron:5cp:1lbs
+Spyglass:1000gp:1lbs
+Stretcher:1gp:10lbs
+String/twine, 50 ft:1cp:1lbs
+Swim Fins:1sp:5lbs
+Thermometer:25gp:1lbs
+Thurible:50gp:3lbs
+Water Canister, pump:75gp:5lbs
+Water clock:1000gp:200lbs
+Water Purification Sponge:25gp:1lbs
+Whetstone:2cp:1lbs
+Prosthetic, arm:10gp:3lbs
+Prosthetic, foot:1gp:2lbs
+Prosthetic, hand:1gp:1lbs
+Prosthetic, leg:20gp:6lbs
+Prosthetic, peg leg:10p:5lbs

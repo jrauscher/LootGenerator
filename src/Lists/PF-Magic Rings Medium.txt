@@ -1,0 +1,43 @@
+Ring of forcefangs:8000gp:0lbs
+Ring of mind shielding:8000gp:0lbs
+Ring of protection (+2):8000gp:0lbs
+Ring of strength sapping:8000gp:0lbs
+Ring of force shield:8500gp:0lbs
+Ring of the ram:8600gp:0lbs
+Scholar's ring:8700gp:0lbs
+Ring of climbing, improved:10000gp:0lbs
+Ring of curing:10000gp:0lbs
+Ring of foe focus:10000gp:0lbs
+Ring of jumping, improved:10000gp:0lbs
+Ring of ki mastery:10000gp:0lbs
+Ring of revelation, lesser:10000gp:0lbs
+Ring of swimming, improved:10000gp:0lbs
+Ring of animal friendship:10800gp:0lbs
+Ring of transposition:10800gp:0lbs
+Ring of tactical precision:11000gp:0lbs
+Ring of the sophisticate:11000gp:0lbs
+Decoy ring:12000gp:0lbs
+Ring of craft magic:12000gp:0lbs
+Ring of ectoplasmic invigoration:12000gp:0lbs
+Ring of energy resistance, minor:1200gp:0lbs
+Ring of the troglodyte:12000gp:0lbs
+Steelhand circle:12000gp:0lbs
+Ring of chameleon power:12700gp:0lbs
+Ring of spell knowledge III:13500gp:0lbs
+Ring of the sea strider:14000gp:0lbs
+Ring of retribution:15000gp:0lbs
+Ring of water walking:15000gp:0lbs
+Dungeon ring, jailer's:16000gp:0lbs
+Ring of revelation, greater:16000gp:0lbs
+Ring of inner fortitude, minor:18000gp:0lbs
+Ring of protection (+3):18000gp:0lbs
+Ring of spell storing, minor:18000gp:0lbs
+Ring of energy shroud:19500gp:0lbs
+Ring of arcane mastery:20000gp:0lbs
+Ring of invisibility:20000gp:0lbs
+Ring of wizardry I:20000gp:0lbs
+Ring of revelation, superior:24000gp:0lbs
+Ring of spell knowledge IV:24000gp:0lbs
+Ring of evasion:25000gp:0lbs
+Ring of x-ray vision:25000gp:0lbs
+Ring of blinking:27000gp:0lbs

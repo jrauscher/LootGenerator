@@ -1,0 +1,40 @@
+Armored Kilt:20gp:10lbs
+Padded:5gp:10lbs
+Quilted Cloth:100gp:15lbs
+Leather:10gp:15lbs
+Rosewood Armor:50gp:15lbs
+Leaf Armor:500gp:20lbs
+Parade Armor:25gp:20lbs
+Studded Leather:25gp:20lbs
+Wooden:20gp:25lbs
+Chain Shirt:100gp:25lbs
+Hide Shirt:90gp:25lbs
+Armored Coat:50gp:20lbs
+Hide:15gp:25lbs
+Scale Mail:50gp:30lbs
+Chain Mail:150gp:40lbs
+Breastplate:200gp:30lbs
+BreastPlate(Agile):400gp:25lbs
+Splint Mail:200gp:45lbs
+Banded Mail:250gp:35lbs
+Field Plate:1200gp:50lbs
+Half-Plate:600gp:50lbs
+Half-Plate(Agile):850gp:55lbs
+Full Plate:1500gp:50lbs
+Hellknight Plate:2000gp:50lbs
+Stoneplate:1800gp:75lbs
+Bucker:5gp:5lbs
+Klar:12gp:6lbs
+Madu Leather:30gp:5lbs
+Madu Steel:40gp:6lbs
+Light Wooden Shield:3gp:5lbs
+Light Wooden Shield(QuickDraw):53gp:6lbs
+Light Steel Shield:9gp:6lbs
+Light Steel Shield(QuickDraw):59gp:7lbs
+Heavy Wooden Shield:7gp:10lbs
+Heavy Steel Shield:20gp:15lbs
+Shield Tower:30gp:45lbs
+Armor Spikes:50gp:10lbs
+Locked Gauntlet:8gp:5lbs
+Shield Spikes:10gp:5lbs
+Throwing Sheild:50gp:5lbs

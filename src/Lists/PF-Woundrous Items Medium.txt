@@ -1,0 +1,100 @@
+Amulet of natural armor (+2):8000gp:0lbs
+Golem manual, flesh golem:8000gp:0lbs
+Hand of glory:8000gp:0lbs
+Ioun stone, deep red sphere:8000gp:0lbs
+Ioun stone, incandescent blue sphere:8000gp:0lbs
+Ioun stone, pale blue rhomboid:8000gp:0lbs
+Ioun stone, pink and green sphere:8000gp:0lbs
+Ioun stone, pink rhomboid:8000gp:0lbs
+Ioun stone, scarlet and blue sphere:8000gp:0lbs
+Deck of illusions:8100gp:0lbs
+Necklace of fireballs type VI:8100gp:0lbs
+Candle of invocation:8400gp:0lbs
+Robe of blending:8400gp:0lbs
+Bag of tricks, rust:8500gp:0lbs
+Necklace of fireballs type VII:8700gp:0lbs
+Bracers of armor (+3):9000gp:0lbs
+Cloak of resistance (+3):9000gp:0lbs
+Decanter of endless water:9000gp:0lbs
+Necklace of adaptation:9000gp:0lbs
+Pearl of power, 3rd-level spell:9000gp:0lbs
+Figurine of wondrous power, serpentine owl:9100gp:0lbs
+Strand of prayer beads, lesser:9600gp:0lbs
+Bag of holding type IV:10000gp:0lbs
+Belt of physical might (+2):10000gp:0lbs
+Figurine of wondrous power, bronze griffon:10000gp:0lbs
+Figurine of wondrous power, ebony fly:10000gp:0lbs
+Glove of storing:10000gp:0lbs
+Headband of mental prowess (+2):10000gp:0lbs
+Ioun stone, dark blue rhomboid:10000gp:0lbs
+Cape of the mountebank:10080gp:0lbs
+Phylactery of negative channeling:11000gp:0lbs
+Phylactery of positive channeling:11000gp:0lbs
+Gauntlet of rust:11500gp:0lbs
+Boots of speed:12000gp:0lbs
+Goggles of night:12000gp:0lbs
+Golem manual, clay:12000gp:0lbs
+Medallion of thoughts:12000gp:0lbs
+Blessed book:12500gp:0lbs
+Gem of brightness:13000gp:0lbs
+Lyre of building:13000gp:0lbs
+Robe, Monk's:13000gp:0lbs
+Cloak of arachnida:14000gp:0lbs
+Belt of dwarvenkind:14900gp:0lbs
+Periapt of wound closure:15000gp:0lbs
+Pearl of the sirines:15300gp:0lbs
+Figurine of wondrous power, onyx dog:15500gp:0lbs
+Bag of tricks, tan:16000gp:0lbs
+Belt of giant strength (+4):16000gp:0lbs
+Belt of incredible dexterity (+4):16000gp:0lbs
+Belt of mighty constitution (+4):16000gp:0lbs
+Belt of physical perfection (+2):16000gp:0lbs
+Boots, winged:16000gp:0lbs
+Bracers of armor (+4):16000gp:0lbs
+Cloak of resistance (+4):16000gp:0lbs
+Headband of alluring charisma(+4):16000gp:0lbs
+Headband of inspired wisdom(+4):16000gp:0lbs
+Headband of mental superiority (+2):16000gp:0lbs
+Headband of vast intelligence (+4):16000gp:0lbs
+Pearl of power, 4th-level spell:16000gp:0lbs
+Scabbard of keen edges:16000gp:0lbs
+Figurine of wondrous power, golden lions:16500gp:0lbs
+Chime of interruption:16800gp:0lbs
+Broom of flying:17000gp:0lbs
+Figurine of wondrous power, marble elephant:17000gp:0lbs
+Amulet of natural armor (+3):18000gp:0lbs
+Ioun stone, iridescent spindle:18000gp:0lbs
+Bracelet of friends:19000gp:0lbs
+Amulet of mighty fists (+2):20000gp:0lbs
+Carpet of flying, 5 ft. by 5 ft.:20000gp:0lbs
+Horn of blasting:20000gp:0lbs
+Ioun stone, pale lavender ellipsoid:20000gp:0lbs
+Ioun stone, pearly white spindle:20000gp:0lbs
+Portable hole:20000gp:0lbs
+Stone of good luck (luckstone):20000gp:0lbs
+Figurine of wondrous power, ivory goats:21000gp:0lbs
+Rope of entanglement:21000gp:0lbs
+Golem manual, stone:22000gp:0lbs
+Mask of the skull:22000gp:0lbs
+Mattock of the titans:23348gp:0lbs
+Crown of blasting, major:23760gp:0lbs
+Cloak of displacement, minor:24000gp:0lbs
+Helm of underwater action:24000gp:0lbs
+Bracers of archery, greater:25000gp:0lbs
+Bracers of armor (+5):25000gp:0lbs
+Cloak of resistance (+5):25000gp:0lbs
+Eyes of doom:25000gp:0lbs
+Pearl of power, 5th-level spell:25000gp:0lbs
+Maul of the titans:25305gp:0lbs
+Cloak of the bat:26000gp:0lbs
+Iron bands of binding:26000gp:0lbs
+Cube of frost resistance:27000gp:0lbs
+Helm of telepathy:27000gp:0lbs
+Periapt of proof against poison:27000gp:0lbs
+Robe of scintillating colors:27000gp:0lbs
+Manual of bodily health (+1):27500gp:0lbs
+Manual of gainful exercise (+1):27500gp:0lbs
+Manual of quickness in action (+1):27500gp:0lbs
+Tome of clear thought (+1):27500gp:0lbs
+Tome of leadership and influence (+1):27500gp:0lbs
+Tome of understanding (+1):27500gp:0lbs

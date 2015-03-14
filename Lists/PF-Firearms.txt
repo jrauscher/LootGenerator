@@ -1,0 +1,38 @@
+Buckler gun:750gp:6lbs
+Pepperbox:3000gp:5lbs
+Pistol:1000gp:4lbs
+Pistol, coat:750gp:1lbs
+Pistol, dagger:740gp:1lbs
+Pistol, double-barreled:1750gp:5lbs
+Pistol, dragon:1000gp:3lbs
+Pistol, sword cane:775gp:1lbs
+Blunderbuss:2000gp:8lbs
+Culverin:4000gp:40lbs
+Double hackbut:4000gp:18lbs
+Fire lance:25gp:4lbs
+Musket:1500gp:9lbs
+Musket, axe:1600gp:6lbs
+Musket, double-barreled:2500gp:11lbs
+Musket, warhammer:1600gp:6lbs
+Revolver:4000gp:4lbs
+Rifle:5000gp:12lbs
+Rifle, pepperbox:7000gp:15lbs
+Shotgun:5000gp:12lbs
+Shotgun, double-barreled:7000gp:15lbs
+Alchemical cartridge, dragon’s breath:40gp:1lbs
+Alchemical cartridge, entangling shot:40gp:1lbs
+Alchemical cartridge, flare:10gp:1lbs
+Alchemical cartridge, paper (bullet or pellet):12gp:1lbs
+Alchemical cartridge, salt shot:12gp:1lbs
+Black powder (dose):10gp:1lbs
+Black powder (keg):1000gp:5lbs
+Firearm bullet (1):1gp:1lbs
+Firearm bullet (30):30gp:1lbs
+Bullet, adamantine:61gp:1lbs
+Firearm bullet, pitted:5gp:1lbs
+Firearm bullet, silver:25gp:1lbs
+Gunsmith’s kit:15gp:2lbs
+Metal cartridge:15gp:1lbs
+Pellets (handful):1gp:1lbs
+Pellets (30 handfuls):30gp:1lbs
+Powder horn:3gp:1lbs

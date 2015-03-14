@@ -1,0 +1,27 @@
+Backpack, common:2gp:2lbs
+Backpack, masterwork:50gp:4lbs
+Bag, waterproof:5sp:1lbs
+Pouch, Belt:1gp:1lbs
+Pouch, Spell components:5gp:2lbs
+Pouch, War Spirit:50gp:0lbs	
+Sack:1sp:1lbs
+Waterskin:1gp:4lbs
+Barrel:2gp:30lbs
+Chest, Small:3gp:25lbs
+Chest, Medium:7gp:50lbs
+Chest, Large:15gp:100lbs
+Chest, Huge:30gp:250lbs
+Chest, False-Bottomed:52gp:25lbs
+Basket:4sp:1lbs
+Bottle, Glass:2gp:1lbs
+Bucket:5sp:2lbs
+Cauldron:1gp:5lbs
+Cup, false-bottomed:1gp:0lbs	
+Flask:3cp:1lbs
+Jug, clay:3cp:9lbs
+Mug/Tankard, clay:2cp:1lbs
+Pitcher, clay:2cp:5lbs
+Pot, iron:8sp:4lbs
+Vial, iron:1sp:1lbs
+Vial (for ink or potions):1gp:0lbs
+Potion Sponge:2gp:0lbs

@@ -1,0 +1,16 @@
+Conduit rod:12000gp:0lbs
+Grounding rod:12000gp:0lbs
+Rod of the wayang:12000gp:0lbs
+Rod of Wonder:12000gp:0lbs
+Metamagic, merciful, greater:12250gp:0lbs
+Rod of the python:13000gp:0lbs
+Trap-stealer's rod:13500gp:0lbs
+Metamagic (+3 spell level), minor:14000gp:0lbs
+Rod of balance:15000gp:0lbs
+Rod of escape:15000gp:0lbs
+Rod of flame extinguishing:15000gp:0lbs
+Rod of ruin:16000gp:0lbs
+Sapling rod:16650gp:0lbs
+Rod of beguiling:18000gp:0lbs
+Rod of nettles:18000gp:0lbs
+Rod of the Viper:19000gp:0lbs

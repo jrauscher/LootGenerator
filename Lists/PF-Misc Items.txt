@@ -1,0 +1,63 @@
+Bedroll:1sp:5lbs
+Common Blanket:2sp:1lbs
+Winter Blanket:5sp:3lbs
+Folding Chair:2gp:10lbs
+Hammock:1sp:3lbs
+Small Tent:10gp:20lbs
+Medium Tent:15gp:30lbs
+Large Tent:30gp:40lbs
+Pavilion Tent:100gp:50lbs
+Hanging Tent:20gp:15lbs
+Fishhook:1sp:0lbs
+Butterfly Net:5gp:2lbs
+Fishing Net:4gp:5lbs
+Scent Cloak:20gp:2lbs
+Bear Trap:2gp:10lbs
+Bell:1gp:0lbs
+Common Buoy:5sp:16lbs
+Superior Buoy:10gp:30lbs
+Compass:10gp:1lbs
+Heatstone:20gp:1lbs
+Mirror:10gp:1lbs
+Area Map:50gp:2lbs
+Hemp Rope(50ft):1gp:10lbs
+Silk Rope(50ft):10gp:5lbs
+Start Charts:200gp:1lbs
+String(50ft):1cp:1lbs
+Signal Horn:1gp:2lbs
+Whistle:8sp:0lbs
+Oil Lamp:1sp:1lbs
+Healer's Kit(10 uses):50gp:1lbs
+Common Backpack:2gp:2lbs
+Masterwork BackPack:50gp:4lbs
+Waterproof Bag:5sp:1lbs
+Belt Pouch:1gp:1lbs
+Sack:1sp:1lbs
+Waterskin:1gp:4lbs
+Glass Bottle:2gp:1lbs
+Bucket:5sp:2lbs
+Flask:3cp:1lbs
+Clay Jug:3cp:9lbs
+Iron Pot:8sp:4lbs
+Vial:1gp:0lbs
+Barrel:2gp:30lbs
+Ale(Gallon):2sp:8lbs
+Fine Wine:10gp:1lbs
+Linnorm Mead:5cp:1lbs
+Common Wine:2sp:6lbs
+Coffe:1cp:1lbs
+Tea:2cp:1lbs
+Loaf Bread:2cp:1lbs
+Trail Rations:5sp:1lbs
+Cleats:5gp:2lbs
+Snowshoes:5gp:4lbs
+Eye Patch:1sp:0lbs
+Scarf:1gp:1lbs
+Furs:12gp:5lbs
+Vest:5gp:1lbs
+Marked Cards:1gp:1lbs
+Average Loaded Dice:10gp:0lbs
+Superior Loaded Dice:50gp:0lbs
+Dice:1gp:0lbs
+Marbles:1sp:2lbs
+Tourch:3gp:2lbs

@@ -1,0 +1,30 @@
+Staff of illumination:51500gp:0lbs
+Staff of obstacles:51600gp:0lbs
+Staff of heaven and earth:54000gp:0lbs
+Staff of travel:54400gp:0lbs
+Staff of hoarding:55866gp:0lbs
+Staff of traps:56925gp:0lbs
+Staff of many rays:57200gp:0lbs
+Staff of mithral might:58000gp:0lbs
+Staff of defense:62000gp:0lbs
+Staff of the planes:63960gp:0lbs
+Staff of hungry shadows:69300gp:0lbs
+Dragon staff:81000gp:0lbs
+Staff of slumber:81766gp:0lbs
+Staff of abjuration:82000gp:0lbs
+Staff of conjuration:82000gp:0lbs
+Staff of divination:82000gp:0lbs
+Staff of enchantment:82000gp:0lbs
+Staff of evocation:82000gp:0lbs
+Staff of illusion:82000gp:0lbs
+Staff of necromancy:82000gp:0lbs
+Staff of transmutation:82000gp:0lbs
+Staff of weather:84066gp:0lbs
+Staff of earth and stone:85800gp:0lbs
+Staff of vision:86666gp:0lbs
+Staff of the woodlands:100400gp:0lbs
+Staff of life:109400gp:0lbs
+Staff of one hundred hands:180200gp:0lbs
+Staff of passage:206900gp:0lbs
+Staff of the hierophant:220000gp:0lbs
+Staff of power:235000gp:0lbs

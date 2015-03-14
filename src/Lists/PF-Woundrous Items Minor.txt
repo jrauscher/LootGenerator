@@ -1,0 +1,100 @@
+Feather token, anchor:50gp:0lbs
+Universal solvent:50gp:0lbs
+Elixir of love:150gp:0lbs
+Unguent of timelessness:150gp:0lbs
+Feather token, fan:200gp:0lbs
+Dust of tracelessness:250gp:0lbs
+Elixir of hiding:250gp:0lbs
+Elixir of tumbling:250gp:0lbs
+Elixir of swimming:250gp:0lbs
+Elixir of vision:250gp:0lbs
+Silversheen:250gp:0lbs
+Feather token, bird:300gp:0lbs
+Feather token, tree:400gp:0lbs
+Feather token, swan boat:450gp:0lbs
+Elixir of truth:500gp:0lbs
+Feather token, whip:500gp:0lbs
+Dust of dryness:850gp:0lbs
+Hand of the mage:900gp:0lbs
+Bracers of armor (+1):1000gp:0lbs
+Cloak of resistance (+1):1000gp:0lbs
+Pearl of power, 1st-level spell:1000gp:0lbs
+Phylactery of faithfulness:1000gp:0lbs
+Salve of slipperiness:1000gp:0lbs
+Elixir of fire breath:1100gp:0lbs
+Pipes of the sewers:1150gp:0lbs
+Dust of illusion:1200gp:0lbs
+Brooch of shielding:1500gp:0lbs
+Necklace of fireballs type I:1650gp:0lbs
+Dust of appearance:1800gp:0lbs
+Hat of disguise:1800gp:0lbs
+Pipes of sounding:1800gp:0lbs
+Efficient quiver:1800gp:0lbs
+Amulet of natural armor (+1):2000gp:0lbs
+Handy haversack:2000gp:0lbs
+Horn of fog:2000gp:0lbs
+Elemental gem:2250gp:0lbs
+Robe of bones:2400gp:0lbs
+Sovereign glue:2400gp:0lbs
+Bag of holding type I:2500gp:0lbs
+Boots of elvenkind:2500gp:0lbs
+Boots of the winterlands:2500gp:0lbs
+Candle of truth:2500gp:0lbs
+Cloak of elvenkind:2500gp:0lbs
+Eyes of the eagle:2500gp:0lbs
+Goggles of minute seeing:2500gp:0lbs
+Scarab, golembane:2500gp:0lbs
+Necklace of fireballs type II:2700gp:0lbs
+Stone of alarm:2700gp:0lbs
+Bead of force:3000gp:0lbs
+Chime of opening:3000gp:0lbs
+Horseshoes of speed:3000gp:0lbs
+Rope of climbing:3000gp:0lbs
+Bag of tricks, gray:3400gp:0lbs
+Dust of disappearance:3500gp:0lbs
+Lens of detection:3500gp:0lbs
+Vestment, druid's:3750gp:0lbs
+Figurine of wondrous power, silver raven:3800gp:0lbs
+Belt of giant strength (+2):4000gp:0lbs
+Belt of incredible dexterity (+2):4000gp:0lbs
+Belt of mighty constitution (+2):4000gp:0lbs
+Bracers of armor (+2):4000gp:0lbs
+Cloak of resistance (+2):4000gp:0lbs
+Gloves of arrow snaring:4000gp:0lbs
+Headband of alluring charisma (+2):4000gp:0lbs
+Headband of inspired wisdom (+2):4000gp:0lbs
+Headband of vast intelligence (+2):4000gp:0lbs
+Ioun stone, clear spindle:4000gp:0lbs
+Restorative ointment:4000gp:0lbs
+Marvelous pigments:4000gp:0lbs
+Pearl of power, 2nd-level spell:4000gp:0lbs
+Stone salve:4000gp:0lbs
+Necklace of fireballs type III:4350gp:0lbs
+Circlet of persuasion:4500gp:0lbs
+Slippers of spider climbing:4800gp:0lbs
+Incense of meditation:4900gp:0lbs
+Amulet of mighty fists (+1):5000gp:0lbs
+Bag of holding type II:5000gp:0lbs
+Bracers of archery, lesser:5000gp:0lbs
+Ioun stone, dusty rose prism:5000gp:0lbs
+Helm of comprehend languages and read magic:5200gp:0lbs
+Vest of escape:5200gp:0lbs
+Eversmoking bottle:5400gp:0lbs
+Sustaining spoon:5400gp:0lbs
+Necklace of fireballs type IV:5400gp:0lbs
+Boots of striding and springing:5500gp:0lbs
+Wind fan:5500gp:0lbs
+Necklace of fireballs type V:5850gp:0lbs
+Horseshoes of a zephyr:6000gp:0lbs
+Pipes of haunting:6000gp:0lbs
+Gloves of swimming and climbing:6250gp:0lbs
+Crown of blasting, minor:6480gp:0lbs
+Horn of goodness/evil:6500gp:0lbs
+Robe of useful items:7000gp:0lbs
+Boat, folding:7200gp:0lbs
+Cloak of the manta ray:7200gp:0lbs
+Bottle of air:7250gp:0lbs
+Bag of holding type III:7400gp:0lbs
+Periapt of health:7400gp:0lbs
+Boots of levitation:7500gp:0lbs
+Harp of charming:7500gp:0lbs

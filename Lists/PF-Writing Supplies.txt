@@ -1,0 +1,31 @@
+Arcane Family Workbook:300gp:3lbs
+Footprints Book:50gp:3lbs
+Journal (Blank):10gp:1lbs
+Obsession Log:25gp:1lbs
+Pathfinder Chronicle:50gp:1lbs
+Portrait Book:10gp:3lbs
+Prophecies of Kalistrade:75gp:10lbs
+Spellbook, (Standard, Blank):15gp:3lbs
+Spellbook, (Compact, Blank):50gp:1lbs
+Spellbook, (Traveling, Blank):10gp:1lbs
+Chalk (1 piece):1cp:0lbs
+Charcoal (1 stick):5sp:0lbs
+Ink (1 oz. in a vial):8gp:0lbs
+Ink, Ghost:25gp:0lbs	
+Ink, glowing (vial):5gp:0lbs	
+Ink, invisible (simple):2gp:0lbs	
+Ink, invisible (average):10gp:0lbs	
+Ink, invisible (good):25gp:0lbs
+Ink, invisible (superior):75gp:0lbs
+Ink, Stink:5gp:1lbs
+Ink, Stink (Arcane):5gp:1lbs
+Ink, Fire:1gp:0lbs
+Inkpen:1sp:0lbs	
+Chalkboard:1gp:2lbs	
+Paper (1 sheet):4sp:0lbs	
+Paper, rice (1 sheet):5cp:0lbs	
+Parchment (1 sheet):2sp:0lbs	
+Stationery:1sp:0lbs
+Case, map or scroll:1gp:1lbs
+Printing press (1 page):250gp:150lbs
+Sealing wax:1gp:1lbs

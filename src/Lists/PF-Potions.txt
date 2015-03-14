@@ -1,0 +1,85 @@
+Cure light wounds:50gp:0lbs
+Endure elements:50gp:0lbs
+Hide from animals:50gp:0lbs
+Hide from undead:50gp:0lbs
+Jump:50gp:0lbs
+Mage armor:50gp:0lbs
+Magic fang:50gp:0lbs
+Magic stone:50gp:0lbs
+Magic weapon:50gp:0lbs
+Pass without trace:50gp:0lbs
+Protection from (alignment):50gp:0lbs
+Remove fear:50gp:0lbs
+Sanctuary:50gp:0lbs
+Shield of faith (+2):50gp:0lbs
+Shillelagh:50gp:0lbs
+Bless weapon:100gp:0lbs
+Enlarge person:250gp:0lbs
+Reduce person:250gp:0lbs
+Aid:300gp:0lbs
+Barkskin (+2):300gp:0lbs
+Bear’s endurance:300gp:0lbs
+Blur:300gp:0lbs
+Bull’s strength:300gp:0lbs
+Cat’s grace:300gp:0lbs
+Cure moderate wounds:300gp:0lbs
+Darkness:300gp:0lbs
+Darkvision:300gp:0lbs
+Delay poison:300gp:0lbs
+Eagle’s splendor:300gp:0lbs
+Fox’s cunning:300gp:0lbs
+Invisibility (potion or oil):300gp:0lbs
+Lesser restoration:300gp:0lbs
+Levitate (potion or oil):300gp:0lbs
+Misdirection:300gp:0lbs
+Owl’s wisdom:300gp:0lbs
+Protection from arrows10/magic:300gp:0lbs
+Remove paralysis:300gp:0lbs
+Resist energy (type) 10:300gp:0lbs
+Shield of faith (+3):300gp:0lbs
+Spider climb:300gp:0lbs
+Undetectable alignment:300gp:0lbs
+Barkskin (+3):600gp:0lbs
+Shield of faith (+4):600gp:0lbs
+Resist energy (type) 20:700gp:0lbs
+Cure serious wounds:750gp:0lbs
+Daylight:750gp:0lbs
+Displacement:750gp:0lbs
+Flame arrow:750gp:0lbs
+Fly:750gp:0lbs
+Gaseous form:750gp:0lbs
+Greater magic fang (+1):750gp:0lbs
+Greater magic weapon (+1):750gp:0lbs
+Haste:750gp:0lbs
+Heroism:750gp:0lbs
+Keen edge:750gp:0lbs
+Magic circle against (alignment):750gp:0lbs
+Magic vestment (+1):750gp:0lbs
+Neutralize poison:750gp:0lbs
+Nondetection:750gp:0lbs
+Protection from energy (type):750gp:0lbs
+Rage:750gp:0lbs
+Remove blindness/deafness:750gp:0lbs
+Remove curse:750gp:0lbs
+Remove disease:750gp:0lbs
+Tongues:750gp:0lbs
+Water breathing:750gp:0lbs
+Water walk:750gp:0lbs
+Barkskin (+4):900gp:0lbs
+Shield of faith (+5):900gp:0lbs
+Good hope:1050gp:0lbs
+Resist energy (type) 30:1100gp:0lbs
+Barkskin (+5):1200gp:0lbs
+Greater magic fang (+2):1200gp:0lbs
+Greater magic weapon (+2):1200gp:0lbs
+Magic vestment (+2):1200gp:0lbs
+Protection from arrows 15/magic:1500gp:0lbs
+Greater magic fang (+3):1800gp:0lbs
+Greater magic weapon (+3):1800gp:0lbs
+Magic vestment (+3):1800gp:0lbs
+Greater magic fang (+4):2400gp:0lbs
+Greater magic weapon (+4):2400gp:0lbs
+Magic vestment (+4):2400gp:0lbs
+Greater magic fang (+5):3000gp:0lbs
+Greater magic weapon (+5):3000gp:0lbs
+Magic vestment (+5):3000gp:0lbs

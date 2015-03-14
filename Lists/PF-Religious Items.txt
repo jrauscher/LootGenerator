@@ -1,0 +1,22 @@
+Altar, Portable:250gp:40lbs
+Holy-Unholy Symbol, wooden:1gp:0lbs
+Holy-Unholy Symbol, silver:25gp:1lbs
+Holy-Unholy Water (1 flask):25gp:1lbs
+Samsaran Life Wheel:25gp:1lbs
+Talisman, Necrotic:500gp:1lbs
+Varisian Idol:50gp:0lbs
+Authoritative Vestments:450gp:15lbs
+Bronze Gong:100gp:5lbs
+Chains of contrition:200gp:2lbs
+Driftwood Icon:25gp:0lbs
+Hallowed chalice:200gp:2lbs
+Instrument of the divine:200gp:3lbs
+Iron Eye:50gp:1lbs
+Just Scale:50gp:1lbs
+Meditation crystal:100gp:1lbs
+Sanctified rings (pair):5gp:0lbs
+Spiked focus ward:100gp:2lbs
+Stinging Whip:50gp:5lbs
+Sundered Mask:250gp:1lbs
+Teaching staff:75gp:5lbs
+Winged Fetish:50gp:0lbs

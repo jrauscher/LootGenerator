@@ -1,0 +1,27 @@
+Ale (gallon):2sp:8lbs
+Ale (mug):4cp:1lbs
+Ale, Dwarven Stout (mug):4cp:1lbs
+Ale, Luglurch (mug):4sp:0lbs	
+Ale, Luglurch (gallon):1gp:0lbs	
+Caydenbrew (mug):5cp:1lbs
+Grog (mug):2cp:1lbs
+Mead, Linnorm, (mug):5cp:1lbs
+Rumboozle (glass):1sp:1lbs
+Whiskey, Dragon Punch (cup):10gp:0lbs	
+Wine common (pitcher):2sp:6lbs
+Wine fine (bottle):10gp:1lbs
+Coffee, common (cup):1cp:1lbs
+Coffee, Mwangi (cup):3cp:1lbs
+Kahve (cup):2cp:1lbs
+Tea, common (cup):2cp:1lbs
+Tea, ceremonial (cup):4cp:1lbs
+Lisken’s Medicinal Tonic (cup):10gp:0lbs	
+Bread, loaf:2cp:1lbs
+Cheese (hunk):1sp:1lbs
+Meal, Banquet (per person):10gp:0lbs	
+Meal, good (per day):5sp:0lbs	
+Meal, common (per day):3sp:0lbs	
+Meal, poor (per day):1sp:0lbs	
+Meat, chunk:3sp:1lbs
+Rations, Trail (per day):5sp:1lbs
+Rations, Wandermeal (per serving):1cp:1lbs
