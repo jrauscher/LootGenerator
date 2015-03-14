@@ -3,14 +3,14 @@
 2.0
 
 ###System Overview:
-Java application that makes shop inventory / monster inventory for the pathfinder table top game.
+Java application that makes shop / monster / NPC inventory for the Pathfinder table top game.
 
 ###Copyright information:
-LootGen 2.0 is copyrighted by Jordan Rauscher(2015).
+LootGenerator is copyrighted by Jordan Rauscher(2015).
 
 ###License information:
-The LootGen 2.0 documentation is licensed under CC BY-SA 3.0 US (https://creativecommons.org/licenses/by-sa/3.0/us/) <br/>
-The source code of LootGen 2.0 is licensed under Apache 2.0 (http://www.apache.org/licenses/LICENSE-2.0)
+The LootGenerator documentation is licensed under CC BY-SA 3.0 US (https://creativecommons.org/licenses/by-sa/3.0/us/) <br/>
+The source code of LootGenerator is licensed under Apache 2.0 (http://www.apache.org/licenses/LICENSE-2.0)
 
 -----------------------------------------------------------------------
 
@@ -22,8 +22,8 @@ Link: http://www.java.com/en/ <br/>
 Link: http://www.oracle.com/technetwork/articles/javase/index-jsp-138363.html <br/>
 
 #### Use:
-1. Open LootGen2.0 Directory. <br/>
-2. Run the LootGen2.0.jar file. <br/>
+1. Open LootGenerator Directory. <br/>
+2. Run the LootGen.jar file. <br/>
 This will bring up the main display of the program. <br/>
 3. Options: <br/>
 View List: opens the list selected for viewing. <br/>
