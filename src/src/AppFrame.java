@@ -100,7 +100,9 @@ public class AppFrame extends JFrame {
 	  		int magicProb = generator.nextInt(100);
 	  		//If its magic add * otherwise dont
 	  		if (magicProb <= list.getMagicProb()){
-	  			model.addRow(new Object[]{loot.getName() + "*", loot.getValue(), loot.getWeight(),loot.getQuantity()});
+	  			loot.setMagic(1);
+	  			loot.setName(loot.getName() + "*");
+	  			model.addRow(new Object[]{loot.getName(), loot.getValue(), loot.getWeight(),loot.getQuantity()});
 			}else{
 				model.addRow(new Object[]{loot.getName(), loot.getValue(), loot.getWeight(),loot.getQuantity()});
 			}
